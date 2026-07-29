@@ -1,0 +1,26 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "dev.pdfrender/pdfrender",
+  "title": "Pdfrender",
+  "description": "HTML-to-PDF MCP server \u2014 render pixel-faithful PDFs from HTML.",
+  "version": "1.0.0",
+  "websiteUrl": "https://pdfrender.dev",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.pdfrender.dev/mcp/",
+      "headers": [
+        {
+          "name": "X-API-Key",
+          "description": "Optional API key; the anonymous tier works without it",
+          "isRequired": false,
+          "isSecret": true
+        }
+      ]
+    }
+  ],
+  "repository": {
+    "url": "https://github.com/getpdfrender/pdfrender",
+    "source": "github"
+  }
+}
