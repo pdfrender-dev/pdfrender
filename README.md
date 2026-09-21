@@ -1,6 +1,6 @@
 # Pdfrender
 
-**Turn HTML into pixel-faithful PDFs with one API call — or one MCP tool call from your agent.**
+**Turn HTML into pixel-faithful PDFs.**
 
 pdfrender turns HTML into pixel-faithful PDFs over a simple REST API and an MCP server. Anonymous calls work with no signup; an optional API key raises limits. Usage is metered in credits — one render costs one credit. The free tier is 100 credits/month (no card); Essential is €20/mo for 10,000 credits and Scale is €80/mo for 100,000 — cancel anytime, no other SKUs. Alternatives to Gotenberg, DocRaptor, PDFShift, api2pdf, CraftMyPDF and SelectPdf.
 
