@@ -1,15 +1,15 @@
-# Pdfrender
+# pdfrender
 
-**Turn HTML into pixel-faithful PDFs.**
+**HTML and CSS to PDF, without a headless browser**
 
-pdfrender turns HTML into pixel-faithful PDFs over a simple REST API and an MCP server. Anonymous calls work with no signup; an optional API key raises limits. Usage is metered in credits — one render costs one credit. The free tier is 100 credits/month (no card); Essential is €20/mo for 10,000 credits and Scale is €80/mo for 100,000 — cancel anytime, no other SKUs. Alternatives to Gotenberg, DocRaptor, PDFShift, api2pdf, CraftMyPDF and SelectPdf.
+pdfrender turns HTML and CSS into PDF over a REST API and an MCP server. WeasyPrint 70 lays out the pages, with paper size, margins, headers, footers and page numbers set in CSS. It runs no JavaScript and fetches no URLs, so images and fonts go in as data: URIs. Limits are 2 MB of HTML and 50 pages per render. The servers are in Germany. The free plan has 100 credits a month and needs no card.
 
 ## Links
 
 - **Website:** https://pdfrender.dev/go/github
 - **API docs:** https://api.pdfrender.dev/docs · [OpenAPI](https://api.pdfrender.dev/openapi.json)
 - **Pricing:** https://pdfrender.dev/pricing
-- **Try it free — paste HTML, get a PDF:** https://pdfrender.dev/tools/html-to-pdf
+- **Render HTML free:** https://pdfrender.dev/tools/html-to-pdf
 - **llms.txt:** https://pdfrender.dev/llms.txt
 
 ## MCP server
