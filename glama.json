@@ -1,6 +1,1 @@
-{
-  "$schema": "https://glama.ai/mcp/schemas/server.json",
-  "maintainers": [
-    "podshalocef"
-  ]
-}
+{"$schema":"https://glama.ai/mcp/schemas/server.json","maintainers":["podshalocef"]}
