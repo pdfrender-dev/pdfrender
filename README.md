@@ -1,5 +1,7 @@
 # pdfrender
 
+[![smithery badge](https://smithery.ai/badge/podshalocef/pdfrender)](https://smithery.ai/servers/podshalocef/pdfrender)
+
 **HTML and CSS to PDF, without a headless browser**
 
 pdfrender turns HTML and CSS into PDF over a REST API and an MCP server. WeasyPrint 70 lays out the pages, with paper size, margins, headers, footers and page numbers set in CSS. It runs no JavaScript and fetches no URLs, so images and fonts go in as data: URIs. Limits are 2 MB of HTML and 50 pages per render. The servers are in Germany. The free plan has 100 credits a month and needs no card.
