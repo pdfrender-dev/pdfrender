@@ -1,0 +1,1 @@
+{"description":"HTML and CSS to PDF MCP server with page headers, footers and page numbers. No headless browser.","mcpServers":{"pdfrender":{"httpUrl":"https://api.pdfrender.dev/mcp/"}},"name":"pdfrender","version":"1.0.0"}
