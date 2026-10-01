@@ -1,0 +1,1 @@
+{"mcpServers":{"pdfrender":{"headers":{"X-API-Key":"${PDFRENDER_API_KEY:-}"},"type":"http","url":"https://api.pdfrender.dev/mcp/"}}}
