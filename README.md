@@ -13,6 +13,8 @@ pdfrender turns HTML and CSS into PDF over a REST API and an MCP server. WeasyPr
 - **Pricing:** https://pdfrender.dev/pricing
 - **Render HTML free:** https://pdfrender.dev/tools/html-to-pdf
 - **llms.txt:** https://pdfrender.dev/llms.txt
+- **Privacy policy:** https://pdfrender.dev/privacy
+- **Support:** https://pdfrender.dev/support
 
 ## MCP server
 
@@ -24,6 +26,8 @@ Claude Code:
 ```sh
 claude mcp add --transport http pdfrender https://api.pdfrender.dev/mcp/
 ```
+
+Claude Code: `/plugin marketplace add pdfrender-dev/pdfrender` then `/plugin install pdfrender@pdfrender` (set `PDFRENDER_API_KEY` for your key).
 
 Cursor / Windsurf / Cline / Claude Desktop:
 
