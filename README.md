@@ -52,6 +52,10 @@ One-click installs for every client: https://pdfrender.dev/connect
 
 **Integrations** (n8n, Zapier, Make, Dify, SDKs and templates): https://github.com/pdfrender-dev/pdfrender-integrations
 
+## Templates
+
+Ready-made workflows: https://pdfrender.dev/templates
+
 ## Links
 
 - **Website:** https://pdfrender.dev/go/github
