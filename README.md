@@ -50,7 +50,7 @@ Cursor / Windsurf / Cline / Claude Desktop:
 
 One-click installs for every client: https://pdfrender.dev/connect
 
-**Integrations** (n8n, Zapier, Make, Workato, Dify, SDKs and templates): https://github.com/pdfrender-dev/pdfrender-integrations
+**Integrations** (n8n, Zapier, Make, Dify, SDKs and templates): https://github.com/pdfrender-dev/pdfrender-integrations
 
 ## Links
 
